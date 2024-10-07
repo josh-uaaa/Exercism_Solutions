@@ -1,2 +1,2 @@
-## Joshua's Exercism Solutions
-A version control repository for my Exercism solutions.
+## While Learning...
+A version control repository for my passion to continuously learn, grow, and improve myself as an aspiring Software Engineer.
