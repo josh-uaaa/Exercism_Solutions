@@ -1,6 +1,6 @@
-### Python Solutions
+### Exercism - Python Solutions
 ---
-**Purpose:** To refresh my knowledge and skills on Python in preparation for continuing learning AI/ML.
+**Purpose:** To refresh my knowledge and skills on Python in preparation for continuing learning AI/ML concepts.
 
 **Start Date:** Sept. 18, 2024.
 
